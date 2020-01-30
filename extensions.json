@@ -2,71 +2,17 @@
   "load_extensions": {
     "nbextensions_configurator/config_menu/main": true,
     "contrib_nbextensions_help_item/main": true,
-    "plotlywidget/extension": true,
-    "jupyter-js-widgets/extension": true,
-    "jupyter-autopep8-master/jupyter-autopep8": false,
-    "code_prettify/autopep8": false,
-    "hinterland/hinterland": false,
-    "export_embedded/main": true,
-    "code_prettify/isort": true,
-    "printview/main": true,
-    "ruler/main": true,
-    "snippets_menu/main": true,
     "code_prettify/code_prettify": true,
-    "equation-numbering/main": false,
+    "highlight_selected_word/main": true,
+    "printview/main": true,
+    "snippets_menu/main": true,
     "execute_time/ExecuteTime": true,
-    "livemdpreview/livemdpreview": true,
-    "code_font_size/code_font_size": false,
-    "datestamper/main": true,
+    "code_prettify/isort": true,
     "runtools/main": true,
     "spellchecker/main": true,
-    "highlight_selected_word/main": true,
     "scratchpad/main": true,
+    "livemdpreview/livemdpreview": true,
     "varInspector/main": true,
-    "highlighter/highlighter": true,
-    "snippets/main": true
-  },
-  "Cell": {
-    "cm_config": {
-      "lineNumbers": true
-    }
-  },
-  "ruler_column": [
-    "78",
-    "10",
-    "20",
-    "30",
-    "40",
-    "50",
-    "60",
-    "70",
-    "80"
-  ],
-  "ruler_color": [
-    "#ff0000",
-    "#c9c9c9",
-    "#c9c9c9",
-    "#c9c9c9",
-    "#c9c9c9",
-    "#c9c9c9",
-    "#c9c9c9",
-    "#c9c9c9",
-    "#c9c9c9"
-  ],
-  "ruler_linestyle": [
-    "solid",
-    "dashed",
-    "dashed",
-    "dashed",
-    "dashed",
-    "dashed",
-    "dashed",
-    "dashed",
-    "dashed"
-  ],
-  "ExecuteTime": {
-    "clear_timings_on_clear_output": false,
-    "display_absolute_timings": false
-  },
-  "printview_nbconvert_options": "--to html_embed"
+    "ruler/main": true
+  }
 }
