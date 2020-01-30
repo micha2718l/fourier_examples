@@ -1,5 +1,4 @@
 jupyter contrib nbextension install --user
-jupyter notebook --config=extensions.json
 jupyter nbextension enable
 jupyter nbextension enable nbextensions_configurator/config_menu/main
 jupyter nbextension enable contrib_nbextensions_help_item/main
