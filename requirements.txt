@@ -4,3 +4,4 @@ matplotlib
 jupyter_contrib_nbextensions
 yapf
 isort
+unophysics
